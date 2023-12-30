@@ -15,7 +15,7 @@ int array_get(const Array *a,int index);
 int array_set(Array *a,int index,int value);
 void array_inflate(Array *a,int more_size);
 
-
+// a new change 
 
 
 #endif // !__ARRAY_H_
